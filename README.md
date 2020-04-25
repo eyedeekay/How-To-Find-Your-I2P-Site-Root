@@ -66,7 +66,7 @@ To test whether this will work for you, open a terminal and use the command:
 
         ls ~/.i2p/eepsite/docroot
 
-You should see a list of files used by I2P for configuration. If not, try
+You should see a list of files displayed by the default I2P Site. If not, try
 the following instructions.
 
 #### Ubuntu or Debian GNU/Linux
@@ -82,7 +82,7 @@ to test whether this will work for you, use this command:
 
         sudo -u i2psvc ls /var/lib/i2p/i2p-config/eepsite/docroot
 
-You should see the list of files used by I2P configuration.
+You should see the list of files displayed by the default I2P Site.
 
 ### Mac OSX
 
