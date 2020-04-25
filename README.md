@@ -101,7 +101,7 @@ If you found your I2P docroot at C:\\Users\\**username**\\AppData\\Roaming\\I2P\
 then all you need to do is drag the files from the website into the shortcut you
 created in the first step. **That's it!**
 
-#### Windows as a System User
+#### Windows as a Service User
 
 If you found your I2P docroot in %PROGRAMDATA%, then you will need to also
 elevate your privileges before you copy the website files into the shortcut that
